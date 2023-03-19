@@ -11,8 +11,9 @@
 
 
 body{
-    background-image: url('/starter-code/assets/background-stars.svg');
-    background-repeat: no-repeat;
+    background-color: #070724;
+    background-image: url('assets/background-stars.svg');
+  
 
     /* background-image: url("data:image/svg+xml,<http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg>");
     background-repeat: no-repeat; */
